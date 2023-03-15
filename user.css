@@ -1,0 +1,6 @@
+body{
+    background-image: url(./Pictures/Indexbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}

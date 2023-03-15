@@ -1,0 +1,14 @@
+body{
+    background-image: url(./Pictures/Indexbackground.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+    opacity: 0.9;
+    
+}
+
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+}
